@@ -11,12 +11,19 @@ This Matrix Multipication code is written in c language.It offers user to input 
 This Pattern program is asked on HackerRank.This pattern takes an input and displays the pattern correspondingly.
 For Ex: Input= 4
 Output= 
+
 4 4 4 4 4 4 4
+
 4 3 3 3 3 3 4
+
 4 3 2 2 2 3 4
+
 4 3 2 1 2 3 4
+
 4 3 2 2 2 3 4
+
 4 3 3 3 3 3 4
+
 4 4 4 4 4 4 4
 
 ## 4)Polynomial Code
@@ -24,4 +31,5 @@ This program is a Menu driven program. The options available are:
 1) Enter a polynomial in three variables & solve it by entering the value of the 3 variables.
 2) Enter two polynomials in 3 variables & add them accordingly
 This program makes core use of linked lists in C.
+
 ## 5)Matchstick Game Code
