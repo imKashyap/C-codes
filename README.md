@@ -7,4 +7,8 @@ This Telephone directory code provides the feature to add telephone contacts, vi
 This Matrix Multipication code is written in c language.It offers user to input two matrices of  nxn size and calculates the multiplication of these matrices. This program makes core use of double dimensional array and handling them with use of pointers.
 ## 3)Pattern Code
 ## 4)Polynomial Code
+This program is a Menu driven program. The options available are:
+1) Enter a polynomial in three variables & solve it by entering the value of the 3 variables.
+2) Enter two polynomials in 3 variables & add them accordingly
+This program makes core use of linked lists in C.
 ## 5)Matchstick Game Code
