@@ -29,7 +29,14 @@ Output=
 ## 4)Polynomial Code
 This program is a Menu driven program. The options available are:
 1) Enter a polynomial in three variables & solve it by entering the value of the 3 variables.
-2) Enter two polynomials in 3 variables & add them accordingly
+2) Enter two polynomials in 3 variables & add them accordingly.
+
 This program makes core use of linked lists in C.
 
 ## 5)Matchstick Game Code
+A C program for a matchstick game being played between the computer and a user. The program should ensure that the computer always wins. Rules for the game are as follows:
+
+– There are 21 matchsticks.
+– The computer asks the player to pick 1, 2, 3 or 4 matchsticks.
+– After the person picks, the computer does its picking.
+– Whoever is forced to pick up the last matchstick loses the game.
